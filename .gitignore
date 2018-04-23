@@ -105,3 +105,6 @@ venv.bak/
 
 # pychrm
 .idea/
+
+# media file
+media/*.png
