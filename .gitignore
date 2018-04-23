@@ -107,4 +107,4 @@ venv.bak/
 .idea/
 
 # media file
-media/*.png
+src/media/**/*.*
